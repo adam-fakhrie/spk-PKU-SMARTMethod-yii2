@@ -1,0 +1,2961 @@
+2022-09-23 14:00:57 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "yii". in /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2022-09-23 14:00:57 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '40460'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/yii'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/yii'
+    'PHP_SELF' => '/index.php/yii'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663941657.2566
+    'REQUEST_TIME' => 1663941657
+]
+2022-09-23 14:02:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "view". in /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2022-09-23 14:02:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '47420'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/view'
+    'PHP_SELF' => '/index.php/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663941772.5705
+    'REQUEST_TIME' => 1663941772
+]
+2022-09-23 14:09:35 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\db\Exception] PDOException: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '1' for column 'tgl' at row 1 in /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php:1302
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1302): PDOStatement->execute()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1102): yii\db\Command->internalExecute()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/db/BaseActiveRecord.php(676): yii\db\ActiveRecord->insert()
+#6 /var/www/html/spk/controllers/PkuController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\PkuController->actionCreate()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#14 {main}
+
+Next yii\db\Exception: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '1' for column 'tgl' at row 1
+The SQL being executed was: INSERT INTO `pku` (`nama`, `tgl`, `daerah`, `j_utusan`, `utusan`, `quran`, `arab`, `inggris`, `wawasan`, `s2`, `nilai`) VALUES ('dsdfs', '1', '1', 1, '1', 1, 1, 1, 1, 1, 1) in /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php:676
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1307): yii\db\Schema->convertException()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1102): yii\db\Command->internalExecute()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/db/BaseActiveRecord.php(676): yii\db\ActiveRecord->insert()
+#6 /var/www/html/spk/controllers/PkuController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\PkuController->actionCreate()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#14 {main}
+Additional Information:
+Array
+(
+    [0] => 22007
+    [1] => 1292
+    [2] => Incorrect date value: '1' for column 'tgl' at row 1
+)
+
+2022-09-23 14:09:35 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'A1gqkq5RatDwG55GampPBF2i_P61pmyCEOWPMl8wNaRWDXjQ-jgr4blo_DctISd1N-C4kf_2Xrd-rLZHB1sM3Q=='
+    'Pku' => [
+        'nama' => 'dsdfs'
+        'tgl' => '1'
+        'daerah' => '1'
+        'j_utusan' => '1'
+        'utusan' => '1'
+        'quran' => '1'
+        'arab' => '1'
+        'inggris' => '1'
+        'wawasan' => '1'
+        's2' => '1'
+        'nilai' => '1'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '51866'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '291'
+    'HTTP_CONTENT_LENGTH' => '291'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663942175.492
+    'REQUEST_TIME' => 1663942175
+]
+2022-09-23 14:16:00 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "tes". in /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2022-09-23 14:16:00 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '58596'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/tes'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/tes'
+    'PHP_SELF' => '/index.php/tes'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663942560.2972
+    'REQUEST_TIME' => 1663942560
+]
+2022-09-23 14:16:04 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\ErrorException:2] yii\base\ErrorException: Array to string conversion in /var/www/html/spk/views/pku/contoh.php:18
+Stack trace:
+#0 /var/www/html/spk/views/pku/contoh.php(18): yii\base\ErrorHandler->handleError()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(89): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionTes()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-23 14:16:04 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '58666'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/tes'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/tes'
+    'PHP_SELF' => '/index.php/pku/tes'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663942564.6437
+    'REQUEST_TIME' => 1663942564
+]
+2022-09-23 14:39:41 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\UnknownMethodException] yii\base\UnknownMethodException: Calling unknown method: yii\widgets\ActiveField::date() in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /var/www/html/spk/views/pku/_form.php(17): yii\base\Component->__call()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#9 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#10 [internal function]: app\controllers\PkuController->actionCreate()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#16 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2022-09-23 14:39:41 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57186'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663943981.9268
+    'REQUEST_TIME' => 1663943981
+]
+2022-09-23 14:39:51 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\UnknownMethodException] yii\base\UnknownMethodException: Calling unknown method: yii\widgets\ActiveField::datetime() in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /var/www/html/spk/views/pku/_form.php(17): yii\base\Component->__call()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#9 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#10 [internal function]: app\controllers\PkuController->actionCreate()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#16 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2022-09-23 14:39:51 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '59692'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663943991.5248
+    'REQUEST_TIME' => 1663943991
+]
+2022-09-23 14:39:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\UnknownMethodException] yii\base\UnknownMethodException: Calling unknown method: yii\widgets\ActiveField::datetime() in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /var/www/html/spk/views/pku/_form.php(17): yii\base\Component->__call()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#9 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#10 [internal function]: app\controllers\PkuController->actionCreate()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#16 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2022-09-23 14:39:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '59710'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663943992.2356
+    'REQUEST_TIME' => 1663943992
+]
+2022-09-23 14:39:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\UnknownMethodException] yii\base\UnknownMethodException: Calling unknown method: yii\widgets\ActiveField::datetime() in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:300
+Stack trace:
+#0 /var/www/html/spk/views/pku/_form.php(17): yii\base\Component->__call()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#9 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#10 [internal function]: app\controllers\PkuController->actionCreate()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#16 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#17 {main}
+2022-09-23 14:39:52 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '59734'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663943992.414
+    'REQUEST_TIME' => 1663943992
+]
+2022-09-23 15:06:39 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][ParseError] ParseError: syntax error, unexpected token ";" in /var/www/html/spk/views/pku/_form.php:58
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#2 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#7 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#8 [internal function]: app\controllers\PkuController->actionCreate()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#14 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#15 {main}
+2022-09-23 15:06:39 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '40990'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663945599.21
+    'REQUEST_TIME' => 1663945599
+]
+2022-09-23 15:14:10 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\di\NotInstantiableException] ReflectionException: Class "allowEmpty" does not exist in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:507
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(507): ReflectionClass->__construct()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#13 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#17 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#22 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#23 [internal function]: app\controllers\PkuController->actionCreate()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#28 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#29 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#30 {main}
+
+Next yii\di\NotInstantiableException: Failed to instantiate component or class "allowEmpty". in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:509
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#12 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#16 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#21 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#22 [internal function]: app\controllers\PkuController->actionCreate()
+#23 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#28 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#29 {main}
+2022-09-23 15:14:10 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '40760'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663946050.7077
+    'REQUEST_TIME' => 1663946050
+]
+2022-09-23 15:16:38 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: Invalid validation rule: a rule must specify both attribute names and validator type. in /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php:464
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#7 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#11 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#16 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#17 [internal function]: app\controllers\PkuController->actionCreate()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#22 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#23 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#24 {main}
+2022-09-23 15:16:38 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '45970'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663946198.6467
+    'REQUEST_TIME' => 1663946198
+]
+2022-09-23 15:17:19 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\di\NotInstantiableException] ReflectionException: Class "allowEmpty" does not exist in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:507
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(507): ReflectionClass->__construct()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#13 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#17 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#22 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#23 [internal function]: app\controllers\PkuController->actionCreate()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#28 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#29 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#30 {main}
+
+Next yii\di\NotInstantiableException: Failed to instantiate component or class "allowEmpty". in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:509
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#12 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#16 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#21 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#22 [internal function]: app\controllers\PkuController->actionCreate()
+#23 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#28 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#29 {main}
+2022-09-23 15:17:19 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '35590'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663946239.79
+    'REQUEST_TIME' => 1663946239
+]
+2022-09-23 15:21:12 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\di\NotInstantiableException] ReflectionException: Class "not required" does not exist in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:507
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(507): ReflectionClass->__construct()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#13 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#17 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#22 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#23 [internal function]: app\controllers\PkuController->actionCreate()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#28 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#29 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#30 {main}
+
+Next yii\di\NotInstantiableException: Failed to instantiate component or class "not required". in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:509
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#12 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#16 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#21 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#22 [internal function]: app\controllers\PkuController->actionCreate()
+#23 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#28 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#29 {main}
+2022-09-23 15:21:12 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '44686'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663946472.9258
+    'REQUEST_TIME' => 1663946472
+]
+2022-09-23 15:21:39 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\di\NotInstantiableException] ReflectionException: Class "empty" does not exist in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:507
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(507): ReflectionClass->__construct()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#13 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#17 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#22 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#23 [internal function]: app\controllers\PkuController->actionCreate()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#28 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#29 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#30 {main}
+
+Next yii\di\NotInstantiableException: Failed to instantiate component or class "empty". in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:509
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#12 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#16 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#21 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#22 [internal function]: app\controllers\PkuController->actionCreate()
+#23 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#28 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#29 {main}
+2022-09-23 15:21:39 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36444'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663946499.3477
+    'REQUEST_TIME' => 1663946499
+]
+2022-09-23 15:21:49 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\di\NotInstantiableException] ReflectionException: Class "allowEmpty" does not exist in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:507
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(507): ReflectionClass->__construct()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#13 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#17 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#21 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#22 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#23 [internal function]: app\controllers\PkuController->actionCreate()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#28 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#29 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#30 {main}
+
+Next yii\di\NotInstantiableException: Failed to instantiate component or class "allowEmpty". in /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php:509
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(385): yii\di\Container->getDependencies()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(461): yii\validators\Validator::createValidator()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(413): yii\base\Model->createValidators()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(808): yii\base\Model->scenarios()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(427): yii\base\Model->activeAttributes()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Model.php(487): yii\base\Model->getActiveValidators()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#12 /var/www/html/spk/views/pku/_form.php(15): yii\widgets\ActiveField->textInput()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#16 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#19 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#20 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#21 /var/www/html/spk/controllers/PkuController.php(81): yii\base\Controller->render()
+#22 [internal function]: app\controllers\PkuController->actionCreate()
+#23 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#24 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#25 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#26 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#27 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#28 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#29 {main}
+2022-09-23 15:21:49 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36912'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/index'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1663946509.1472
+    'REQUEST_TIME' => 1663946509
+]
+2022-09-23 15:45:04 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][error][yii\db\Exception] PDOException: SQLSTATE[HY000]: General error: 1364 Field 'hasil' doesn't have a default value in /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php:1302
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1302): PDOStatement->execute()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1102): yii\db\Command->internalExecute()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/db/BaseActiveRecord.php(676): yii\db\ActiveRecord->insert()
+#6 /var/www/html/spk/controllers/PkuController.php(82): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\PkuController->actionCreate()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#14 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000]: General error: 1364 Field 'hasil' doesn't have a default value
+The SQL being executed was: INSERT INTO `pku` (`nama`, `tgl`, `daerah`, `j_utusan`, `utusan`, `quran`, `arab`, `inggris`, `wawasan`, `s2`, `nilai`) VALUES ('Adam', '2022-09-28', 'adsasd', 1, 'Pondok Ambanganyar', 1, 2, 2, 2, 2, 4) in /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php:676
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1307): yii\db\Schema->convertException()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/db/Command.php(1102): yii\db\Command->internalExecute()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/db/BaseActiveRecord.php(676): yii\db\ActiveRecord->insert()
+#6 /var/www/html/spk/controllers/PkuController.php(82): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\PkuController->actionCreate()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#14 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'hasil' doesn't have a default value
+)
+
+2022-09-23 15:45:04 [127.0.0.1][-][skm38otc6b78nlptfdlqv3hii6][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'cSmBT1Imz_HgPZlWcQ7Yx1p7LtV7I1ayNY5czTsSqM4kfNMNBk-OwKlO-yc2RbC2MDlqujFzZIdbx2W4Y3mRtw=='
+    'Pku' => [
+        'nama' => 'Adam'
+        'tgl' => '2022-09-28'
+        'daerah' => 'adsasd'
+        'j_utusan' => '1'
+        'utusan' => 'Pondok Ambanganyar'
+        'quran' => '1'
+        'arab' => '2'
+        'inggris' => '2'
+        'wawasan' => '2'
+        's2' => '2'
+        'nilai' => '4'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y\";}'
+    'PHPSESSID' => 'skm38otc6b78nlptfdlqv3hii6'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'sopaju'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '52810'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '321'
+    'HTTP_CONTENT_LENGTH' => '321'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_COOKIE' => '_csrf=b2a8c33f98f52a647114be33789bf7108871539aab37e5a3e0d89cfb05502fa4a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22UURBTiA1IsbqGKhqjBDoJP25nI9uXk9y%22%3B%7D; PHPSESSID=skm38otc6b78nlptfdlqv3hii6'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1663947904.8823
+    'REQUEST_TIME' => 1663947904
+]
+2022-09-24 07:06:18 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:06:18 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54068'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664003178.9392
+    'REQUEST_TIME' => 1664003178
+]
+2022-09-24 07:07:27 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:07:27 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55138'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664003247.0719
+    'REQUEST_TIME' => 1664003247
+]
+2022-09-24 07:08:13 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:08:13 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36076'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664003293.2775
+    'REQUEST_TIME' => 1664003293
+]
+2022-09-24 07:20:00 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:20:00 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36650'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004000.8118
+    'REQUEST_TIME' => 1664004000
+]
+2022-09-24 07:30:45 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "dataProvider" property must be set. in /var/www/html/spk/vendor/yiisoft/yii2/widgets/BaseListView.php:118
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/grid/GridView.php(275): yii\widgets\BaseListView->init()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\grid\GridView->init()
+#2 [internal function]: yii\base\BaseObject->__construct()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(419): ReflectionClass->newInstanceArgs()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Widget.php(143): yii\BaseYii::createObject()
+#7 /var/www/html/spk/views/pku/index.php(49): yii\base\Widget::widget()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#12 /var/www/html/spk/controllers/PkuController.php(46): yii\base\Controller->render()
+#13 [internal function]: app\controllers\PkuController->actionIndex()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#15 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#16 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#17 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#18 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#19 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#20 {main}
+2022-09-24 07:30:45 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50144'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku'
+    'PHP_SELF' => '/index.php/pku'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004645.5687
+    'REQUEST_TIME' => 1664004645
+]
+2022-09-24 07:34:07 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:07 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49408'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004847.2841
+    'REQUEST_TIME' => 1664004847
+]
+2022-09-24 07:34:13 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:13 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48214'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'REQUEST_TIME_FLOAT' => 1664004853.1187
+    'REQUEST_TIME' => 1664004853
+]
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48278'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004854.3448
+    'REQUEST_TIME' => 1664004854
+]
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48364'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004854.6652
+    'REQUEST_TIME' => 1664004854
+]
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:14 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48434'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004854.9258
+    'REQUEST_TIME' => 1664004854
+]
+2022-09-24 07:34:15 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:15 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48496'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004855.1488
+    'REQUEST_TIME' => 1664004855
+]
+2022-09-24 07:34:15 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:34:15 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48562'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664004855.3653
+    'REQUEST_TIME' => 1664004855
+]
+2022-09-24 07:41:54 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][Error] Error: Class "Html" not found in /var/www/html/spk/views/pku/_form.php:60
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#3 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#8 /var/www/html/spk/controllers/PkuController.php(114): yii\base\Controller->render()
+#9 [internal function]: app\controllers\PkuController->actionCreate()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#15 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#16 {main}
+2022-09-24 07:41:54 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50256'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664005314.9566
+    'REQUEST_TIME' => 1664005314
+]
+2022-09-24 07:42:03 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][Error] Error: Class "ActiveForm" not found in /var/www/html/spk/views/pku/_form.php:13
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#3 /var/www/html/spk/views/pku/create.php(17): yii\base\View->render()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#8 /var/www/html/spk/controllers/PkuController.php(114): yii\base\Controller->render()
+#9 [internal function]: app\controllers\PkuController->actionCreate()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#12 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#13 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#14 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#15 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#16 {main}
+2022-09-24 07:42:03 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '33802'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664005323.2344
+    'REQUEST_TIME' => 1664005323
+]
+2022-09-24 07:53:52 [127.0.0.1][-][-][error][yii\web\HeadersAlreadySentException] yii\web\HeadersAlreadySentException: Headers already sent in /var/www/html/spk/controllers/PkuController.php on line 107. in /var/www/html/spk/vendor/yiisoft/yii2/web/Response.php:368
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/web/Response.php(341): yii\web\Response->sendHeaders()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#3 {main}
+2022-09-24 07:53:52 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'QGye9VZheKvJs6Ihy7toZCMZ5DZcnb6cv_KcUg9EgJEaGsi4MCItxY_x7WmG-CANTVjWQRHy8v3xnt0xZR7X2g=='
+    'Pku' => [
+        'nama' => 'dsadas'
+        'tgl' => '2022-09-06'
+        'daerah' => 'dsada'
+        'j_utusan' => '1'
+        'utusan' => 'dsadsa'
+        'quran' => '5'
+        'arab' => '4'
+        'inggris' => '2'
+        'wawasan' => '2'
+        's2' => '1'
+        'nilai' => '1'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '55102'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '310'
+    'HTTP_CONTENT_LENGTH' => '310'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006032.8959
+    'REQUEST_TIME' => 1664006032
+]
+2022-09-24 07:57:43 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:57:43 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56946'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006263.0673
+    'REQUEST_TIME' => 1664006263
+]
+2022-09-24 07:58:06 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:58:06 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50146'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006286.7261
+    'REQUEST_TIME' => 1664006286
+]
+2022-09-24 07:59:17 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:59:17 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '37132'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006357.058
+    'REQUEST_TIME' => 1664006357
+]
+2022-09-24 07:59:18 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 07:59:18 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '35062'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006358.7013
+    'REQUEST_TIME' => 1664006358
+]
+2022-09-24 08:00:43 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Missing required parameters: id in /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php:198
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(51): yii\web\Controller->bindActionParams()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#5 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#6 {main}
+2022-09-24 08:00:43 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '40624'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/view'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/view'
+    'PHP_SELF' => '/index.php/pku/view'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006443.2642
+    'REQUEST_TIME' => 1664006443
+]
+2022-09-24 08:03:45 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][error][yii\base\ErrorException:2] yii\base\ErrorException: Undefined array key 0 in /var/www/html/spk/vendor/yiisoft/yii2/helpers/BaseUrl.php:99
+Stack trace:
+#0 /var/www/html/spk/vendor/yiisoft/yii2/helpers/BaseUrl.php(99): yii\base\ErrorHandler->handleError()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/helpers/BaseUrl.php(214): yii\helpers\BaseUrl::toRoute()
+#2 /var/www/html/spk/vendor/yiisoft/yii2/web/Controller.php(258): yii\helpers\BaseUrl::to()
+#3 /var/www/html/spk/controllers/PkuController.php(110): yii\web\Controller->redirect()
+#4 [internal function]: app\controllers\PkuController->actionCreate()
+#5 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#6 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#10 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#11 {main}
+2022-09-24 08:03:45 [127.0.0.1][-][m280nat2ak6ju4qfes0noq08bj][info][application] $_GET = []
+
+$_POST = [
+    '_csrf' => 'JcTFneAhL6hGmY3NuPEEYbMA-Fz2LHAldBki_xxrMHN_spPQhmJ6xgDbwoX1skwI3UHKK7tDPEQ6dWOcdjFnOA=='
+    'Pku' => [
+        'nama' => 'dsad'
+        'tgl' => '2022-08-30'
+        'daerah' => 'dsadsa'
+        'j_utusan' => '2'
+        'utusan' => 'dsadsa'
+        'quran' => '2'
+        'arab' => '3'
+        'inggris' => '1'
+        'wawasan' => '2'
+        's2' => '1'
+        'nilai' => '5'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'm280nat2ak6ju4qfes0noq08bj'
+    '_csrf' => 'd2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36240'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/create'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/create'
+    'PHP_SELF' => '/index.php/pku/create'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'CONTENT_LENGTH' => '309'
+    'HTTP_CONTENT_LENGTH' => '309'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/create'
+    'HTTP_COOKIE' => 'PHPSESSID=m280nat2ak6ju4qfes0noq08bj; _csrf=d2098df86b833ab7bc273c2ff60fb95f2c7779e50ae0cb62ac90db7d1ec4e4cba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZvVMfCUnFBOHMCHinA2wMoLaNlAcjZWK%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664006625.0239
+    'REQUEST_TIME' => 1664006625
+]
+2022-09-27 10:20:06 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: yii\web\View::request in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:154
+Stack trace:
+#0 /var/www/html/spk/views/pku/update.php(18): yii\base\Component->__get()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(141): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionUpdate()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-27 10:20:06 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][info][application] $_GET = [
+    'id' => '15'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'username-localhost-8888' => '\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"'
+    '_xsrf' => '2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466'
+    '_csrf' => '4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq\";}'
+    'PHPSESSID' => '3v59p71lvq7pdgcopk68u8hb1v'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '37884'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/update?id=15'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/update'
+    'PHP_SELF' => '/index.php/pku/update'
+    'QUERY_STRING' => 'id=15'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/view?id=15'
+    'HTTP_COOKIE' => 'username-localhost-8888=\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"; _xsrf=2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466; _csrf=4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq%22%3B%7D; PHPSESSID=3v59p71lvq7pdgcopk68u8hb1v'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664274006.438
+    'REQUEST_TIME' => 1664274006
+]
+2022-09-27 10:20:10 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: yii\web\View::request in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:154
+Stack trace:
+#0 /var/www/html/spk/views/pku/update.php(18): yii\base\Component->__get()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(141): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionUpdate()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-27 10:20:10 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][info][application] $_GET = [
+    'id' => '15'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'username-localhost-8888' => '\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"'
+    '_xsrf' => '2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466'
+    '_csrf' => '4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq\";}'
+    'PHPSESSID' => '3v59p71lvq7pdgcopk68u8hb1v'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '37912'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/update?id=15'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/update'
+    'PHP_SELF' => '/index.php/pku/update'
+    'QUERY_STRING' => 'id=15'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/view?id=15'
+    'HTTP_COOKIE' => 'username-localhost-8888=\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"; _xsrf=2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466; _csrf=4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq%22%3B%7D; PHPSESSID=3v59p71lvq7pdgcopk68u8hb1v'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664274010.412
+    'REQUEST_TIME' => 1664274010
+]
+2022-09-27 10:20:30 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: yii\web\View::request in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:154
+Stack trace:
+#0 /var/www/html/spk/views/pku/update.php(18): yii\base\Component->__get()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(141): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionUpdate()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-27 10:20:30 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][info][application] $_GET = [
+    'id' => '15'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'username-localhost-8888' => '\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"'
+    '_xsrf' => '2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466'
+    '_csrf' => '4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq\";}'
+    'PHPSESSID' => '3v59p71lvq7pdgcopk68u8hb1v'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '44468'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/update?id=15'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/update'
+    'PHP_SELF' => '/index.php/pku/update'
+    'QUERY_STRING' => 'id=15'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/view?id=15'
+    'HTTP_COOKIE' => 'username-localhost-8888=\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"; _xsrf=2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466; _csrf=4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq%22%3B%7D; PHPSESSID=3v59p71lvq7pdgcopk68u8hb1v'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664274030.056
+    'REQUEST_TIME' => 1664274030
+]
+2022-09-27 10:20:59 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: yii\web\View::request in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:154
+Stack trace:
+#0 /var/www/html/spk/views/pku/update.php(18): yii\base\Component->__get()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(141): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionUpdate()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-27 10:20:59 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][info][application] $_GET = [
+    'id' => '15'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'username-localhost-8888' => '\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"'
+    '_xsrf' => '2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466'
+    '_csrf' => '4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq\";}'
+    'PHPSESSID' => '3v59p71lvq7pdgcopk68u8hb1v'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54982'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/update?id=15'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/update'
+    'PHP_SELF' => '/index.php/pku/update'
+    'QUERY_STRING' => 'id=15'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/view?id=15'
+    'HTTP_COOKIE' => 'username-localhost-8888=\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"; _xsrf=2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466; _csrf=4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq%22%3B%7D; PHPSESSID=3v59p71lvq7pdgcopk68u8hb1v'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664274059.5813
+    'REQUEST_TIME' => 1664274059
+]
+2022-09-27 10:21:33 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Getting unknown property: yii\web\View::request in /var/www/html/spk/vendor/yiisoft/yii2/base/Component.php:154
+Stack trace:
+#0 /var/www/html/spk/views/pku/update.php(18): yii\base\Component->__get()
+#1 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(347): require('...')
+#2 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /var/www/html/spk/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /var/www/html/spk/controllers/PkuController.php(141): yii\base\Controller->render()
+#6 [internal function]: app\controllers\PkuController->actionUpdate()
+#7 /var/www/html/spk/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /var/www/html/spk/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /var/www/html/spk/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /var/www/html/spk/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /var/www/html/spk/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /var/www/html/spk/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2022-09-27 10:21:33 [127.0.0.1][-][3v59p71lvq7pdgcopk68u8hb1v][info][application] $_GET = [
+    'id' => '15'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'username-localhost-8888' => '\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"'
+    '_xsrf' => '2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466'
+    '_csrf' => '4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq\";}'
+    'PHPSESSID' => '3v59p71lvq7pdgcopk68u8hb1v'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/var/www/html/spk/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '42900'
+    'SERVER_SOFTWARE' => 'PHP 8.1.10 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/pku/update?id=15'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/var/www/html/spk/web/index.php'
+    'PATH_INFO' => '/pku/update'
+    'PHP_SELF' => '/index.php/pku/update'
+    'QUERY_STRING' => 'id=15'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/pku/view?id=15'
+    'HTTP_COOKIE' => 'username-localhost-8888=\"2|1:0|10:1664175390|23:username-localhost-8888|44:YmVkMTExOWY2YjZkNDkwMGI5NGE1OTMxNmU2MmU1OTA=|23d0efdbff61ce15fb8ec6a8ce10a66c7bc7cf22f20ca8474a31a83b332f6238\"; _xsrf=2|aba7a779|8a6381137ed5402571176913c76915a4|1664026466; _csrf=4a25d18aa011f38f7d5701345f7b8ed489249cbdca24eb36af8b397935fb8c0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224ZKSWnLVLFpqgO0iuGImnuxi_Rl7SMdq%22%3B%7D; PHPSESSID=3v59p71lvq7pdgcopk68u8hb1v'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'REQUEST_TIME_FLOAT' => 1664274093.5163
+    'REQUEST_TIME' => 1664274093
+]
